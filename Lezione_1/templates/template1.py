@@ -24,11 +24,9 @@ while running:
 
     # TODO: aggiungere input tastiera e logica futura
 
-    # Disegna sfondo
-    screen.fill((50, 50, 50))
-
-    # Disegna ladro (placeholder rettangolo rosso)
-    pygame.draw.rect(screen, (255, 0, 0), (player_x, player_y, player_width, player_height))
+    #TODO:  Disegna sfondo
+    
+    #TODO: Disegna ladro (placeholder rettangolo rosso)
 
     # Aggiorna display
     pygame.display.update()
